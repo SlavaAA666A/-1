@@ -17,7 +17,7 @@ namespace ConsoleApp4_2
             name = System.Console.ReadLine();
             System.Console.WriteLine("Кем вы были в прошлой жизни:");
             name = System.Console.ReadLine();
-            System.Console.WriteLine("Ваш знак зодиака - Скорпио, поэтому вы - тонко чувствующая натура.");
+            System.Console.WriteLine("Ваш знак зодиака - Скорпион, поэтому вы - тонко чувствующая натура.");
 
 
 
